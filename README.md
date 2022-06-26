@@ -30,7 +30,7 @@
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/VideoStickerBot
+   git clone https://github.com/azeezmazin1/VideoStickerBot
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -68,9 +68,9 @@
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@mazi_efx](https://t.me/mazi_efx)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@mazi_efx](https://t.me/mazi_efx)
 
 ## :)
 
